@@ -1,0 +1,27 @@
+<svg width="16" height="16" viewBox="0 0 16 16" fill="none" xmlns="http://www.w3.org/2000/svg">
+<g id="Icon_US">
+<g id="Mask Group">
+<mask id="mask0_4310_121" style="mask-type:alpha" maskUnits="userSpaceOnUse" x="2" y="2" width="12" height="12">
+<circle id="Ellipse 62" cx="8" cy="8" r="6" fill="#C4C4C4"/>
+</mask>
+<g mask="url(#mask0_4310_121)">
+<g id="Group 26418">
+<path id="Rectangle 1350" d="M14 2H2V14H14V2Z" fill="#F1F8FE"/>
+<path id="Rectangle 1351" d="M14 1H2V3H14V1Z" fill="#F5222D"/>
+<path id="Rectangle 1352" d="M14 5H2V7H14V5Z" fill="#F5222D"/>
+<path id="Rectangle 1355" d="M9 2H2V7H9V2Z" fill="#2F54EB"/>
+<path id="Rectangle 1353" d="M14 9H2V11H14V9Z" fill="#F5222D"/>
+<path id="Rectangle 1354" d="M14 13H2V15H14V13Z" fill="#F5222D"/>
+<g id="Group 26592">
+<circle id="Ellipse 1192" cx="7.5" cy="3.5" r="0.5" fill="#F1F8FE"/>
+<circle id="Ellipse 1194" cx="5.5" cy="3.5" r="0.5" fill="#F1F8FE"/>
+<circle id="Ellipse 1196" cx="3.5" cy="3.5" r="0.5" fill="#F1F8FE"/>
+<circle id="Ellipse 1193" cx="7.5" cy="5.5" r="0.5" fill="#F1F8FE"/>
+<circle id="Ellipse 1195" cx="5.5" cy="5.5" r="0.5" fill="#F1F8FE"/>
+<circle id="Ellipse 1197" cx="3.5" cy="5.5" r="0.5" fill="#F1F8FE"/>
+</g>
+</g>
+</g>
+</g>
+</g>
+</svg>

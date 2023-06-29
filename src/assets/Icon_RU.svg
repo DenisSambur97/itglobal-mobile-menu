@@ -1,0 +1,16 @@
+<svg width="16" height="16" viewBox="0 0 16 16" fill="none" xmlns="http://www.w3.org/2000/svg">
+<g id="Icon_RU">
+<g id="Mask Group">
+<mask id="mask0_4335_74" style="mask-type:alpha" maskUnits="userSpaceOnUse" x="2" y="2" width="12" height="12">
+<circle id="Ellipse 62" cx="8" cy="8" r="6" fill="#C4C4C4"/>
+</mask>
+<g mask="url(#mask0_4335_74)">
+<g id="Group 26418">
+<path id="Rectangle 1350" d="M14 2H2V14H14V2Z" fill="#F1F8FE"/>
+<path id="Rectangle 1351" d="M14 6H2V10H14V6Z" fill="#2F54EB"/>
+<path id="Rectangle 1352" d="M14 10H2V14H14V10Z" fill="#F5222D"/>
+</g>
+</g>
+</g>
+</g>
+</svg>
